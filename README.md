@@ -10,7 +10,11 @@ For example: <code>compound_unit<meter<1>, second<-2>></code> would represent m/
 When we would multiply values, for example:<br>
 <code>32m/s^2 * 5s</code> <br>
 we should get a value with the type m/s, namely <code><meter<1>, second<-1>></code>.<br>
-  
+<br><br>
+The program is compiled using the following command:<br>
+<code>g++ -std=c++2a -o demo demo.cpp</code>, <br>
+and you run the program with:<br>
+<code>./demo</code>.<br>
 
 # Team members
   
