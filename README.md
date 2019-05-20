@@ -1,4 +1,4 @@
-# GenFunCpp
+# Compound-Unit
 
 This is a project for the course "Programming paradigms".<br>
 Paradigm: functional, generic;<br>
